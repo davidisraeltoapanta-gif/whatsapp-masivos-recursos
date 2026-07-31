@@ -1,0 +1,9 @@
+{
+  "rubros": [
+    { "id": "mecanicas", "nombre": "Mecánicas y talleres" },
+    { "id": "panaderias", "nombre": "Panaderías y repostería" },
+    { "id": "restaurantes", "nombre": "Restaurantes" },
+    { "id": "peluquerias", "nombre": "Peluquerías y salones de belleza" },
+    { "id": "librerias", "nombre": "Librerías y papelerías" }
+  ]
+}
