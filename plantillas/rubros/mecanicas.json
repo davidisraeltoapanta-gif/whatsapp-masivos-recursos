@@ -1,0 +1,13 @@
+{
+  "rubro": "Mecánicas y talleres",
+  "plantillas": [
+    {
+      "nombre": "Recordatorio de mantenimiento",
+      "contenido": "Hola {Nombre}, te escribimos de {Empresa} para recordarte que tu vehículo está próximo a su mantenimiento. ¿Deseas agendar una cita?"
+    },
+    {
+      "nombre": "Trabajo terminado",
+      "contenido": "Hola {Nombre}, tu vehículo ya está listo para retirar. Cualquier consulta, escríbenos al {Teléfono}."
+    }
+  ]
+}
