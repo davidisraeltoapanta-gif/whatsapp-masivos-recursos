@@ -1,0 +1,11 @@
+{
+  "nombre": "Campaña de primer contacto",
+  "descripcion": "Ideal para dar seguimiento a un cliente nuevo hasta la conversión",
+  "pasos": [
+    { "titulo": "Enviar mensaje de bienvenida" },
+    { "titulo": "Preguntar cómo le fue con el producto o servicio" },
+    { "titulo": "Enviar promoción especial por su primera compra" },
+    { "titulo": "Recordatorio del uso de la promoción" },
+    { "titulo": "Saludo de despedida temporal, invitándolo a volver" }
+  ]
+}
